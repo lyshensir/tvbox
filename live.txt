@@ -191,6 +191,16 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
+河南电视台,#genre#
+洛阳一套综合频道,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
+洛阳二套科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+洛阳三套文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+汝阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+栾川新闻综合频道,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
+新安电视台综合频道,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+伊川电视台,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
+
 数字,#genre#
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 乐游频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
