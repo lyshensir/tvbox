@@ -1,4 +1,4 @@
-央视,#genre#
+央视台,#genre#
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -76,7 +76,7 @@ CCTV-5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225
 CCTV-5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
-卫视,#genre#
+卫视台,#genre#
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
@@ -191,7 +191,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-河南电视台,#genre#
+河南台,#genre#
 洛阳一套综合频道,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳二套科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 洛阳三套文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
@@ -201,7 +201,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 新安电视台综合频道,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 伊川电视台,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 
-数字,#genre#
+数字台,#genre#
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 乐游频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
