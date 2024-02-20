@@ -84,16 +84,12 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-兵团卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-大湾区卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
 东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=b4cfa770ac20773e9a0c1a541a5b1513&volcTime=1706329288
 东南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/17e62c2e01-0-0-70b94eb3e45746c6a9af7be4bcd47bf2/index.m3u8
-动作电影频道,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/73806b841d-0-0-49fbde5c705d9930c203f18caff64fe0/index.m3u8
 甘肃卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
@@ -192,14 +188,14 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 河南台,#genre#
-洛阳一套综合频道,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
-洛阳二套科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
-洛阳三套文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
-汝阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-栾川新闻综合频道,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
-新安电视台综合频道,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-伊川电视台,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
+洛阳一套,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
+洛阳二套,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+洛阳三套,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+汝阳综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+栾川综合,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
+新安综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+伊川电视,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 
 数字台,#genre#
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
